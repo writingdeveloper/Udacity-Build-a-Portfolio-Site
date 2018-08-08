@@ -77,6 +77,12 @@ html {
         width: 100%;
         order: 1;
     }
+
+    .footer{
+        order:7;
+        font-weight: 500;
+        color: #2d3c49;
+    }
 }
 
 /* This CSS code is for Desktop Environment */
