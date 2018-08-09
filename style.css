@@ -122,9 +122,12 @@ html {
     .name {
         width: 90%;
         font-weight: 450;
+        font-size: 45px;
         color: #5e5e5e;
         text-align: right;
         padding-left: 10%;
+        margin-top: 0;
+        margin-bottom: 0;
     }
     .job {
         width: 90%;
@@ -132,6 +135,7 @@ html {
         color: #5e5e5e;
         text-align: right;
         padding-left: 10%;
+        margin-top: 0;
     }
     .article {
         width: 100%;
