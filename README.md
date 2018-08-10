@@ -14,6 +14,6 @@ You can download with this [link](https://github.com/sangumee/Udacity-Build-a-Po
 # Contact
 If you have some questions or issues about this repository please contact me with the [Issue](https://github.com/sangumee/Udacity-Build-a-Portfolio-Site/issues) section.
 # License
-This project is released under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). If you think there is a problem with this license, please file an issue through the Issue section.
+This project is released under the [MIT License](https://choosealicense.com/licenses/mit/). If you think there is a problem with this license, please file an issue through the Issue section.
 
 
