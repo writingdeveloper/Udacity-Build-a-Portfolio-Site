@@ -1,7 +1,9 @@
 # Udacity-Build-a-Portfolio-Site ![](https://img.shields.io/badge/Code%20Statue-Close-red.svg)
 This repository is the code for the "Build a Portfolio Site" project from Udacity.
 
-I am planning to develop a dynamically available portfolio site using NodeJS and Express framework in the future. When development is complete, the GIthub repository or this README.md file will be updated.
+<img src="./img/demo.png"/>
+
+I am planning to develop a dynamically available portfolio site using NodeJS and Express framework in the future. When development is complete, the GIthub repository or this README.md file will be updated. You can check process in this [Link](https://github.com/sangumee/Udacity-Build-a-Portfolio-Site-Express)
 
 # Demo
 Currently, this web page is hosted using the GitHub Pages feature because it is a site developed solely using static files.
